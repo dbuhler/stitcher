@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:icon="@mipmap/ic_action_accept"
+        android:id="@+id/action_done"
+        android:showAsAction="always|withText"
+        android:title="@string/action_accept"
+        tools:ignore="AlwaysShowAction,AppCompatResource"/>
+
+</menu>

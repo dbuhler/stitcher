@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageStitcher</string>
+    <string name="title_activity_main">ImageStitcher</string>
+    <string name="title_activity_result">ImageStitcher</string>
+    <string name="title_activity_result_0">ImageStitcher – Step 1: Original Images</string>
+    <string name="title_activity_result_1">ImageStitcher – Step 2: Feature Detection</string>
+    <string name="title_activity_result_2">ImageStitcher – Step 3: Feature Matching</string>
+    <string name="title_activity_result_3">ImageStitcher – Step 4: Matches for Homography</string>
+    <string name="title_activity_result_4">ImageStitcher – Stitched Images</string>
+    <string name="action_accept">Stitch It!</string>
+    <string name="action_step_0">1</string>
+    <string name="action_step_1">2</string>
+    <string name="action_step_2">3</string>
+    <string name="action_step_3">4</string>
+    <string name="action_step_4">Result</string>
+    <string name="button_browse">Browse for an image on your device</string>
+    <string name="button_camera">Take a picture with your camera</string>
+    <string name="dialog_wait_title">Stitching Images</string>
+    <string name="dialog_wait_message">Please wait while the images are being processed.</string>
+
+</resources>
